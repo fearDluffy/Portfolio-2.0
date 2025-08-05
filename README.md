@@ -1,14 +1,12 @@
 # 💼 Ankit Kumar – Developer Portfolio
 
-![Portfolio Banner](./images/banner.png) <!-- Optional if you have a banner -->
-
 Welcome to my **personal portfolio website**. This website is a reflection of my work, skills, and passion for modern web development. Designed with creativity, performance, and responsiveness in mind – it’s built using HTML, CSS, and JavaScript, with visually appealing animations and interactive elements.
 
 ---
 
 ## 🚀 Live Demo
 
-🌐 **Visit Here**: [https://yourusername.github.io/portfolio/](https://yourusername.github.io/portfolio/)
+🌐 **Visit Here**: [https://fearDluffy.github.io/Portfolio-2.0/](https://fearDluffy.github.io/Portfolio-2.0/)
 
 ---
 
